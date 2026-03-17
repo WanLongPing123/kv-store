@@ -1,0 +1,19 @@
+# CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Compiled files
+*.o
+*.exe
+*.out
+
+# Data file (如果不想提交数据文件，可以保留；如果想提交则删除下一行)
+data.txt
